@@ -1,0 +1,26 @@
+{
+  "name": "20000nameswebscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "inquirer": "^7.0.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DennisMarkham/20000namesWebscraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DennisMarkham/20000namesWebscraper/issues"
+  },
+  "homepage": "https://github.com/DennisMarkham/20000namesWebscraper#readme"
+}
